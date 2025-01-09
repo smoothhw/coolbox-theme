@@ -1,0 +1,13 @@
+C:\Users\alexa\source\repos\CoolBoxTheme\CoolBoxTheme\bin\Release\CoolBoxTheme.dll
+C:\Users\alexa\source\repos\CoolBoxTheme\CoolBoxTheme\bin\Release\CoolBoxTheme.pdb
+C:\Users\alexa\source\repos\CoolBoxTheme\CoolBoxTheme\bin\Release\CoolBoxTheme.vsix
+C:\Users\alexa\source\repos\CoolBoxTheme\CoolBoxTheme\bin\Release\extension.vsixmanifest
+C:\Users\alexa\source\repos\CoolBoxTheme\CoolBoxTheme\obj\Release\CoolBoxTheme.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\CoolBoxTheme\CoolBoxTheme\obj\Release\_EmptyResource.resources
+C:\Users\alexa\source\repos\CoolBoxTheme\CoolBoxTheme\obj\Release\CoolBoxTheme.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\CoolBoxTheme\CoolBoxTheme\obj\Release\CoolBoxTheme.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\CoolBoxTheme\CoolBoxTheme\obj\Release\CoolBoxTheme.dll
+C:\Users\alexa\source\repos\CoolBoxTheme\CoolBoxTheme\obj\Release\CoolBoxTheme.pdb
+C:\Users\alexa\source\repos\CoolBoxTheme\CoolBoxTheme\obj\Release\extension.vsixmanifest
+C:\Users\alexa\source\repos\CoolBoxTheme\CoolBoxTheme\obj\Release\files.json
+C:\Users\alexa\source\repos\CoolBoxTheme\CoolBoxTheme\obj\Release\createTemplateManifests.cache
